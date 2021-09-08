@@ -8,7 +8,7 @@ A static portfolio website designed using HTML,CSS and JS. It contains all the b
 - cloudFlare
 - https://peaceful-booth-ab956f.netlify.app/
 
-![image](https://user-images.githubusercontent.com/83343880/132519716-e993e7c0-5fce-4ea2-8442-b2a99282bb73.png)
+![image](https://user-images.githubusercontent.com/83343880/132522084-4ee263d0-a45a-42ac-b313-86ca9fc63552.png)
 
 ![image](https://user-images.githubusercontent.com/83343880/132519848-fe793d44-eac2-4b59-bfe7-0f475672aa48.png)
 
