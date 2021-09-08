@@ -3,10 +3,10 @@ A static portfolio website designed using HTML,CSS and JS. It contains all the b
 - #HTML
 - #CSS
 - #JS
-- #Netlify
+- Netlify
 - FontAwesome
 - cloudFlare
-https://peaceful-booth-ab956f.netlify.app/
+- https://peaceful-booth-ab956f.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/83343880/132519716-e993e7c0-5fce-4ea2-8442-b2a99282bb73.png)
 
