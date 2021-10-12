@@ -6,7 +6,7 @@ A static portfolio website designed using HTML,CSS and JS. It contains all the b
 - Netlify
 - FontAwesome
 - cloudFlare
-- https://peaceful-booth-ab956f.netlify.app/
+https://festive-shaw-0c0930.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/83343880/132522084-4ee263d0-a45a-42ac-b313-86ca9fc63552.png)
 
